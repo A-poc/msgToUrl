@@ -15,6 +15,7 @@ for name in os.listdir("."):
 ```
 
 **Requirements**
-- windows
+- Outlook 'running'
+- Windows
 - pywin32 (*pip install pywin32*)
 - .msg files in script folder
